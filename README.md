@@ -91,7 +91,7 @@ Indian Institute of Technology Kanpur
 ---
 
 ## 📅 Project Duration
-**May 2025 – Ongoing**
+**March 2025 – April 2026
 
 ---
 
