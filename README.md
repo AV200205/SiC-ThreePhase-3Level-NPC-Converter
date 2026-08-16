@@ -1,6 +1,6 @@
 # Design and Implementation of SiC MOSFET Based Three-Phase 3-Level NPC Converter
 
-**Undergraduate Project (UGP)**  
+**Undergraduate Project**  
 **Department of Electrical Engineering, IIT Kanpur**
 
 ---
