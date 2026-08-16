@@ -96,4 +96,4 @@ March 2025 – April 2026
 ---
 
 ## 📜 License
-This project is intended for **academic and research purposes only.
+This project is intended for academic and research purposes only.
